@@ -1,4 +1,4 @@
-# HTML CODE
+# HTML ,CSS AND JAVASCRIPT CODE
 # login-and-register-webpage
 <!DOCTYPE html>
 <html lang="en">
@@ -97,7 +97,6 @@
      </body>
 </html>
 
-# CSS CODE
   @import url("https://fonts.google.com/specimen/Poppins");
 * {
     margin:0;
@@ -344,7 +343,7 @@ header {
     text-decoration: underline;
 }
 
-# JAVASCRIPT CODE
+
 const wrapper=document.querySelector('.wrapper');
 const loginLink=document.querySelector('.login-link');
 const registerLink=document.querySelector('.register-link');
